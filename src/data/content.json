@@ -1,51 +1,105 @@
 {
-  "industry": "mühendislik",
-  "automotive": true,
-  "heroEyebrow": "TSE 360 & TÜVTÜRK YETKİLİ ARAÇ PROJE OFİSİ",
-  "heroTitle": "Araç proje hizmetleri ve motosiklet çanta ruhsata işletme",
-  "heroDescription": "Yetkili makine mühendisliği kadromuzla araç projelerinizi ve motosiklet çanta tescillerinizi hızlı, eksiksiz ve mevzuata tam uyumlu biçimde yönetiyoruz.",
+  "industry": "Ayakkabı Tamiri ve Restorasyonu",
+  "automotive": false,
+  "heroEyebrow": "GELENEKSEL USTA İŞÇİLİĞİ",
+  "heroTitle": "Eski Sevgili Ayakkabılarınıza Usta Eliyle Yeniden Hayat Verin",
+  "heroDescription": "Deri botlardan lüks sneakerlara kadar tüm ayakkabılarınızı geleneksel el işçiliğiyle onarıyor, ilk günkü formuna kavuşturuyoruz.",
   "highlights": [
-    "Araç Proje | TSE Onaylı",
-    "Motosiklet Çanta Ruhsata İşletme",
-    "TÜVTÜRK & Noter Tescil Desteği"
+    "El İşçiliği Onarım",
+    "Orijinal Malzeme",
+    "Hızlı Ön İnceleme",
+    "Sneaker Uzmanlığı"
   ],
   "metrics": [
     {
-      "value": "12+ Yıl",
-      "label": "Mühendislik Deneyimi"
+      "value": "20+",
+      "label": "Yıllık Tecrübe"
     },
     {
-      "value": "1.000+",
-      "label": "Tescilli Proje"
+      "value": "15.000+",
+      "label": "Yenilenen Çift"
     },
     {
-      "value": "%100",
-      "label": "Mevzuat Uyumu"
+      "value": "%99",
+      "label": "Müşteri Memnuniyeti"
     }
   ],
-  "aboutTitle": "Araç projesi ve motosiklet çanta tescilinde iki ana uzmanlık",
-  "aboutText": "İhtiyacınız olan hizmet alanını seçin; mevzuata tam uygun teknik hesaplama, TSE 360 dijital dosya onayı ve noter tescil adımlarını sıfır hata güvencesiyle tamamlayalım.",
+  "aboutTitle": "Usta Eli Değen Her Adımda Güven",
+  "aboutText": "Yılların getirdiği zanaat tecrübesiyle ayakkabılarınızı sadece tamir etmiyor, ömrünü uzatıyoruz. Hakiki deri bakımı, taban yenileme ve restorasyon işlerinde kaliteli malzeme ile sabırlı el işçiliği sunuyoruz.",
   "categories": [
-    "Araç Projeleri",
-    "Dönüşüm",
-    "Söküm",
-    "Motosiklet",
-    "Belgelendirme"
+    "Taban ve Topuk",
+    "Deri ve Bakım",
+    "Sneaker & Lüks",
+    "Kalıp ve Konfor"
   ],
-  "services": [],
+  "services": [
+    {
+      "title": "Topuk Lastiği Değişimi",
+      "shortTitle": "Topuk Lastiği Değişimi",
+      "slug": "topuk-lastigi-degisimi",
+      "summary": "Aşınan topuk lastiklerini kaymaz, dayanıklı ve dengeli malzeme ile yeniliyoruz.",
+      "category": "Taban ve Topuk"
+    },
+    {
+      "title": "Kösele Taban Yenileme",
+      "shortTitle": "Kösele Taban Yenileme",
+      "slug": "kosele-taban-yenileme",
+      "summary": "Klasik ayakkabılarınız için hakiki kösele taban kesimi ve koruyucu pençe uygulaması yapıyoruz.",
+      "category": "Taban ve Topuk"
+    },
+    {
+      "title": "Sneaker Restorasyonu",
+      "shortTitle": "Sneaker Restorasyonu",
+      "slug": "sneaker-restorasyonu",
+      "summary": "Sararan tabanları beyazlatıyor, derinlemesine temizlik ve renk tazeleme işlemi uyguluyoruz.",
+      "category": "Sneaker & Lüks"
+    },
+    {
+      "title": "Deri Boyama ve Bakım",
+      "shortTitle": "Deri Boyama ve Bakım",
+      "slug": "deri-boyama-bakim",
+      "summary": "Çizilmiş ve rengi solmuş deri yüzeyleri özel wax ve boyalarla besleyip yeniliyoruz.",
+      "category": "Deri ve Bakım"
+    },
+    {
+      "title": "Ayakkabı Kalıp Genişletme",
+      "shortTitle": "Ayakkabı Kalıp Genişletme",
+      "slug": "ayakkabi-kalip-genisletme",
+      "summary": "Ayağı sıkan dar ayakkabıları mekanik kalıp presleriyle konforlu forma kavuşturuyoruz.",
+      "category": "Kalıp ve Konfor"
+    },
+    {
+      "title": "Fermuar ve Dikiş Onarımı",
+      "shortTitle": "Fermuar ve Dikiş Onarımı",
+      "slug": "fermuar-dikis-onarimi",
+      "summary": "Bozuk fermuarları, sökülen dikişleri ve yıpranan astarları sağlam dikişlerle tamir ediyoruz.",
+      "category": "Deri ve Bakım"
+    },
+    {
+      "title": "Lüks Çanta ve Kemer Bakımı",
+      "shortTitle": "Lüks Çanta ve Kemer Bakımı",
+      "slug": "luks-canta-kemer-bakimi",
+      "summary": "Değerli deri aksesuarlarınızın kenar boyalarını, saplarını ve dikişlerini orijinaline sadık onarıyoruz.",
+      "category": "Sneaker & Lüks"
+    }
+  ],
   "faq": [
     {
-      "question": "Motosiklet çanta ruhsata nasıl işletilir?",
-      "answer": "Motosiklete monte edilen arka çanta veya taşıma kutusu için yetkili makine mühendisimiz tarafından TSE onaylı tadilat projesi çizilir. Ardından TSE Araç Kontrol Merkezi incelemesi ve TÜVTÜRK tespit muayenesi yapılarak noterden yeni ruhsat teslim alınır."
+      "question": "Fiyat öğrenmek için ne yapmam gerekiyor?",
+      "answer": "Ayakkabınızın hasarlı kısımlarını net gösteren fotoğrafları WhatsApp üzerinden iletmeniz yeterlidir. Ustamız inceleyip yapılacak işlemi ve maliyeti bildirir."
     },
     {
-      "question": "Araç projesi hangi durumlarda zorunludur?",
-      "answer": "Karavan dönüşümü, motor değişimi, çeki demiri montajı, koltuk sökümü veya ilavesi, LPG sökümü ve engelli aparatı gibi aracın fabrika çıkış özelliklerini değiştiren tüm işlemlerde yasal olarak araç projesi zorunludur."
+      "question": "Onarım süresi ortalama ne kadar sürer?",
+      "answer": "Basit topuk veya pençe değişimleri genellikle bir-iki gün içinde teslim edilir. Kapsamlı boyama, astar değişimi veya sneaker restorasyonları kuruma süreleri nedeniyle birkaç gün alabilir."
     },
     {
-      "question": "TSE onay ve ruhsat süreci ne kadar sürer?",
-      "answer": "Teknik evraklarınız ve montaj faturanız hazır olduğunda proje çizimi ve TSE 360 sistemine dosya yükleme işlemi aynı gün içinde tamamlanır. Randevu sonrasında muayene ve noter tesciliyle süreç hızla sonuçlandırılır."
+      "question": "Sıkan veya vuran ayakkabılar kalıpla genişler mi?",
+      "answer": "Hakiki deri modeller mekanik kalıplarla yarım ila bir numara oranında rahatlatılabilir. Suni deri veya bez ayakkabılarda ise esneme malzemenin yapısına bağlıdır."
+    },
+    {
+      "question": "Sararan sneaker tabanları eski haline döner mi?",
+      "answer": "Oksitlenip sararan tabanlar özel temizlik ve beyazlatma kürleriyle ilk günkü parlaklığına yaklaştırılır. Derin aşınmalarda koruyucu taban uygulaması önerilir."
     }
   ],
-  "ctaLabel": "Teklif Al"
+  "ctaLabel": "Fotoğraf Gönder, Fiyat Al"
 }
